@@ -1,0 +1,24 @@
+{
+  "name": "json-to-logstash-es",
+  "version": "1.0.0",
+  "description": "Converts a JSON file to upload to Logstash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeybv26/json-to-logstash-es.git"
+  },
+  "author": "Sergey Sukhanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergeybv26/json-to-logstash-es/issues"
+  },
+  "homepage": "https://github.com/sergeybv26/json-to-logstash-es#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash": "^4.12.0",
+    "yargs": "^4.7.0"
+  }
+}
